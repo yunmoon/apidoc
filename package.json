@@ -1,6 +1,6 @@
 {
-  "name": "apidoc",
-  "version": "0.2.0",
+  "name": "zonetk-apidoc",
+  "version": "1.0.0",
   "description": "RESTful web API Documentation Generator",
   "author": "Peter Rottmann <rottmann@inveris.de>",
   "license": "MIT",
@@ -34,7 +34,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc-core": "~0.8.2",
+    "zonetk-apidoc-core": "^1.0.0",
     "commander": "^2.19.0",
     "fs-extra": "^7.0.0",
     "lodash": "^4.17.10",
